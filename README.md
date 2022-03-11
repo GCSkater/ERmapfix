@@ -5,7 +5,7 @@ Found Here: https://eldenring.wiki.fextralife.com/Interactive+Map
 
 Everything should be still functional inside the map. 
 
-Tested using Edge (Chromium). Should work well for PC browsers. Untested on Mobile. 
+Tested using Tampermonkey on Edge (Chromium). Should work well for PC browsers. Untested on Mobile. 
 
 Installation:
 
