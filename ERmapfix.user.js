@@ -8,8 +8,8 @@
 // @icon         https://eldenring.wiki.fextralife.com/file/Elden-Ring/elden-ring-wiki-guide-favicon-32.png
 // @grant        GM_addStyle
 // @run-at       document-start
-// @updateURL   https://raw.githubusercontent.com/GCSkater/EldenRing-Userscript/master/ERmapfix.js
-// @downloadURL https://raw.githubusercontent.com/GCSkater/EldenRing-Userscript/master/ERmapfix.js
+// @updateURL    https://raw.githubusercontent.com/GCSkater/EldenRing-Userscript/master/ERmapfix.js
+// @downloadURL  https://raw.githubusercontent.com/GCSkater/EldenRing-Userscript/master/ERmapfix.js
 // ==/UserScript==
 
 
