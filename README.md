@@ -5,6 +5,8 @@ Found Here: https://eldenring.wiki.fextralife.com/Interactive+Map
 
 Everything should be still functional inside the map. 
 
+Tested using Edge (Chromium). Should work well for PC browsers. Untested on Mobile. 
+
 Installation:
 
 1) Install Tampermonkey (Greasemonkey 4 is untested)
