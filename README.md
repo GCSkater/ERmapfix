@@ -3,7 +3,14 @@
 Cleans up the CSS for the Interactive Map from the Elden Ring Wiki
 Found [Here](https://eldenring.wiki.fextralife.com/Interactive+Map): https://eldenring.wiki.fextralife.com/Interactive+Map
 
-## Installation:
+## Preview
+Before
+![Before](https://i.imgur.com/dp7lZI6.jpeg)
+
+After
+![After](https://i.imgur.com/jfJsCAW.jpeg)
+
+## Installation
 
 1) Install a userscript manager (ex: [Tampermonkey](https://www.tampermonkey.net/) , [Violentmonkey](https://violentmonkey.github.io/get-it/) )
 2) Install Script [HERE](https://raw.githubusercontent.com/GCSkater/EldenRing-Userscript/master/ERmapfix.user.js) (or click on ERmapfix.user.js, and click Raw)
