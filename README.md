@@ -19,8 +19,8 @@ Before | After (v 0.1)
 
 If mine doesn't work for you, you can try other similar scripts:
 
-- [Make Fextralife Usable: Full Screen Elden Ring Map by Zack](https://userstyles.org/styles/232008/make-fextralife-usable-full-screen-elden-ring-map) 
-- [Elden Ring Fextralife fullscreen map redirect by Alistair1231](https://greasyfork.org/en/scripts/441455-elden-ring-fextralife-fullscreen-map-redirect)
+- Android: [Make Fextralife Usable: Full Screen Elden Ring Map by Zack](https://userstyles.org/styles/232008/make-fextralife-usable-full-screen-elden-ring-map) 
+- PC Full Screen: [Elden Ring Fextralife fullscreen map redirect by Alistair1231](https://greasyfork.org/en/scripts/441455-elden-ring-fextralife-fullscreen-map-redirect)
  
 ## Notes
 0.2:
