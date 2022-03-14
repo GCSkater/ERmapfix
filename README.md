@@ -3,6 +3,8 @@
 Cleans up the CSS for the Interactive Map from the Elden Ring Wiki
 Found [Here: https://eldenring.wiki.fextralife.com/Interactive+Map](https://eldenring.wiki.fextralife.com/Interactive+Map)
 
+Everything should be still functional inside the map.
+
 ## Preview
 Before | After (v 0.1)
  --- | ---
@@ -29,5 +31,4 @@ If mine doesn't work for you, you can try other similar scripts:
 0.1:
 
 - Tested using Tampermonkey on Edge (Chromium). Should work well for PC browsers.
-- Greasemonkey 4 support is untested.
-- Everything should be still functional inside the map. 
+- Greasemonkey 4 support is untested. 
