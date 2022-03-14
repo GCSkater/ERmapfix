@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Elden Ring Interactive Map Fixer
 // @namespace    https://github.com/GCSkater/ERmapfix/tree/main
-// @version      0.1
+// @version      0.2
 // @description  Cleans up the CSS for the Interactive Map from the Elden Ring Wiki
 // @author       GC
 // @match        https://eldenring.wiki.fextralife.com/Interactive+Map
@@ -37,9 +37,12 @@ GM_addStyle('.navbar-fixed-top.navbar-inverse.navbar.visible-lg { display: none 
 GM_addStyle('.ios-fix > .hidden-xs { display: none !important; }');
 GM_addStyle('#at4-share { display: none !important; }');
 GM_addStyle('#wiki-content-block > div:nth-child(13) { display: none !important; }');
+GM_addStyle('.visible-xs { display: none !important; }');
+
 
 
 /*Fixing Whats Left*/
+GM_addStyle('#main-content > div { display: flex; }');
 GM_addStyle('#wrapper { padding-left: 0px !important }');
 GM_addStyle('#page-content-wrapper { margin-top: 0px; margin-bottom: 0px; }');
 GM_addStyle('.fex-main  { padding-top: 0px !important; padding-bottom: 0px !important; margin-top: 0px !important; min-height: 800px !important; max-width: 100% !important; margin-left: 0px !important; margin-right: 0px !important; max-width: 100% !important }');
@@ -47,7 +50,4 @@ GM_addStyle('.fex-bg-image { padding-top: 0px! important; }');
 GM_addStyle('.container-fluid { padding-right: 0px; padding-left: 0px; margin-right: 0px; margin-left: 0px; padding-bottom: 0px! important }');
 GM_addStyle('.page-chunk { margin-left: 0px; }');
 GM_addStyle('html { overflow-y: hidden; }');
-GM_addStyle('.interactivemapcontainer { height: 900px !important; }');
-
-
-
+GM_addStyle('.interactivemapcontainer { position: fixed; height: 100% !important; }');
