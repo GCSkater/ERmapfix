@@ -1,7 +1,7 @@
 # Elden Ring Interactive Map Fixer
 
 Cleans up the CSS for the Interactive Map from the Elden Ring Wiki
-Found [Here: https://eldenring.wiki.fextralife.com/Interactive+Map](https://eldenring.wiki.fextralife.com/Interactive+Map)
+Found Here: https://eldenring.wiki.fextralife.com/Interactive+Map
 
 Everything should be still functional inside the map.
 
