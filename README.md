@@ -23,6 +23,12 @@ If mine doesn't work for you, you can try other similar scripts:
 - PC Full Screen: [Elden Ring Fextralife fullscreen map redirect by Alistair1231](https://greasyfork.org/en/scripts/441455-elden-ring-fextralife-fullscreen-map-redirect)
  
 ## Notes
+0.3:
+
+- Changed script so it will load when the map is clicked on from within the wiki
+- Cleaned up code. A lot. 
+- Mobile still works okay.
+
 0.2:
 
 - Improved some of the code to work better for mobile.
